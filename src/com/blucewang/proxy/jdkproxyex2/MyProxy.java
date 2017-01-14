@@ -1,4 +1,4 @@
-package com.blucewang.jdkproxyex2;
+package com.blucewang.proxy.jdkproxyex2;
 
 import java.lang.reflect.*;
 

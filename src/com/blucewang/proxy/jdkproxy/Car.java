@@ -1,4 +1,4 @@
-package com.blucewang.jdkproxy;
+package com.blucewang.proxy.jdkproxy;
 
 import java.util.Random;
 
